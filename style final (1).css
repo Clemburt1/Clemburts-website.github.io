@@ -1,0 +1,47 @@
+
+* {
+  max-width: 100% !important;
+}
+h1 {
+  color:#darkblue;
+  font-size: 60px;
+}
+h2 {
+  color: green;
+  font-size: 40;
+}
+ 
+.highlight {
+  background-color: royalblue;
+font-size: 30px;
+}
+img {
+  height: 250px;
+  width: 300px;
+  display: flex;
+  align-items: center;
+}
+ul {
+  font-size: 70px;
+  font-family: "Times New Roman", Times, serif;
+}
+
+h3 {
+  font-size: 80 px;
+}
+
+.big {
+  font-size: 80px;
+  text-align: center;
+  list-style-position: inside;
+  font-family: Impact, Arial Black, sans-serif;
+  color: darkred;
+}
+
+
+.big-image {
+  width: 800px;
+  height: 800px;
+  display: block;
+  margin: 0 auto;
+}
